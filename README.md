@@ -22,13 +22,12 @@
 
 `인크라임`은 웹RTC를 활용한 추리게임입니다.
 
-commit log: 싸피 외부 깃헙/깃랩 주소
 
 🏠 https://ssafyincrime.herokuapp.com/
 
 📷 프로젝트 영상 : https://www.youtube.com/watch?v=BPZv3-Zp3oo
 
-노션: https://puzzled-carpenter-bec.notion.site/bf36726088f74c7c862dd2ab69b00141
+노션: https://redniche.notion.site/bf36726088f74c7c862dd2ab69b00141
 
 
 
